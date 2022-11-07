@@ -1,0 +1,6 @@
+projectKey=26017_angular_G1
+serverUrl=http://172.27.12.78:8000
+serverVersion=7.9.6.41879
+dashboardUrl=http://172.27.12.78:8000/dashboard?id=26017_angular_G1
+ceTaskId=AYCNElv20_C1AJujt_Yy
+ceTaskUrl=http://172.27.12.78:8000/api/ce/task?id=AYCNElv20_C1AJujt_Yy
